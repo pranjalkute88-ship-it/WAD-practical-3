@@ -1,2 +1,3 @@
 # WAD-practical-3
-create git repository
+create new repository and push onto github.
+
